@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>name</key><string>Second Life (LSL)</string>
+		<key>description</key><string>TextMate theme for LSL (the Linden Scripting Language).</string>
+		<key>last modified</key><string>2014-05-22 15:50:00</string>
+		<key>settings</key>
+		<array>
+			<dict>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#f6f6f6</string>
+					<key>caret</key><string>#333333</string>
+					<key>foreground</key><string>#333333</string>
+					<key>invisibles</key><string>#e0e0e0</string>
+					<key>lineHighlight</key><string>#a5a5a5</string>
+					<key>selection</key><string>#c2e8ff</string>
+					<key>selectionBorder</key><string>#aacbdf</string>
+					<key>inactiveSelection</key><string>#ededed</string>
+					<key>findHighlight</key><string>#ffe792</string>
+					<key>findHighlightForeground</key><string>#333333</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>comment</string>
+				<key>scope</key><string>comment.block, comment.documentation, comment.block.documentation, comment.line.double-slash</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key><string>italic</string>
+					<key>foreground</key><string>#cd4d26</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>comment punctuation</string>
+				<key>scope</key><string>comment punctuation</string>
+				<key>settings</key><dict><key>foreground</key><string>#adadad</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>entity name tag</string>
+				<key>scope</key><string>entity.name.tag</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#f4faff</string>
+					<key>foreground</key><string>#2f6f9f</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>entity other attribute-name</string>
+				<key>scope</key><string>entity.other.attribute-name</string>
+				<key>settings</key><dict><key>foreground</key><string>#4f9fcf</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>punctuation definition tag</string>
+				<key>scope</key><string>punctuation.definition.tag</string>
+				<key>settings</key><dict><key>foreground</key><string>#4f9fcf</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>strings</string>
+				<key>scope</key><string>string.quoted.double, punctuation.definition.string.begin, punctuation.definition.string.end</string>
+				<key>settings</key><dict><key>foreground</key><string>#003300</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>escape characters</string>
+				<key>scope</key><string>constant.character.escape</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#fbe9ad</string>
+					<key>foreground</key><string>#cd4d26</string>
+					<key>fontStyle</key><string>bold</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>invalid broken</string>
+				<key>scope</key><string>invalid.broken</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#efcfcf</string>
+					<key>fontStyle</key><string>italic underline</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>invalid deprecated</string>
+				<key>scope</key><string>invalid.deprecated</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#efcfcf</string>
+					<key>fontStyle</key><string>italic underline</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>invalid godmode</string>
+				<key>scope</key><string>invalid.godmode</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#efcfcf</string>
+					<key>fontStyle</key><string>italic underline</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>invalid illegal</string>
+				<key>scope</key><string>invalid.illegal</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#f93232</string>
+					<key>foreground</key><string>#f9f2ce</string>
+					<key>fontStyle</key><string></string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>invalid unimplemented</string>
+				<key>scope</key><string>invalid.unimplemented</string>
+				<key>settings</key>
+				<dict>
+					<key>background</key><string>#efcfcf</string>
+					<key>fontStyle</key><string>italic underline</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key><string>sections</string>
+				<key>scope</key><string>entity.name.class.state.begin, constant.language.state</string>
+				<key>settings</key><dict><key>foreground</key><string>#801a4d</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>data types</string>
+				<key>scope</key><string>storage.type</string>
+				<key>settings</key><dict><key>foreground</key><string>#1a4d1a</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>events</string>
+				<key>scope</key><string>support.function.event</string>
+				<key>settings</key><dict><key>foreground</key><string>#004d80</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>functions</string>
+				<key>scope</key><string>support.function.builtin, entity.name.function</string>
+				<key>settings</key><dict><key>foreground</key><string>#820124</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>integer constants</string>
+				<key>scope</key><string>constant.language.integer</string>
+				<key>settings</key><dict><key>foreground</key><string>#1a1a80</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>string constants</string>
+				<key>scope</key><string>constant.language.string</string>
+				<key>settings</key><dict><key>foreground</key><string>#1a4d80</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>float constants</string>
+				<key>scope</key><string>constant.language.float</string>
+				<key>settings</key><dict><key>foreground</key><string>#4d1a80</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>vector constants</string>
+				<key>scope</key><string>constant.language.vector</string>
+				<key>settings</key><dict><key>foreground</key><string>#663366</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>rotation constants</string>
+				<key>scope</key><string>constant.language.rotation</string>
+				<key>settings</key><dict><key>foreground</key><string>#663366</string></dict>
+			</dict>
+			<dict>
+				<key>name</key><string>flow control keywords</string>
+				<key>scope</key><string>keyword.control.flow</string>
+				<key>settings</key><dict><key>foreground</key><string>#0000cd</string></dict>
+			</dict>
+		</array>
+		<key>uuid</key>
+		<string>080d7f79-08d7-454a-82b3-5e2a615b9aae</string>
+	</dict>
+</plist>

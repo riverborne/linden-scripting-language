@@ -1,0 +1,24 @@
+{
+    "name": "language-lsl",
+    "version": "1.0",
+    "description": "Linden Scripting Language (LSL) syntax grammar, syntax highlighting and snippet files.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/buildersbrewery/linden-scripting-language.git"
+    },
+    "bugs": {
+        "url": "https://github.com/buildersbrewery/linden-scripting-language/issues"
+    },
+    "engines": {
+        "atom": "*"
+    },
+    "dependencies": {
+    },
+    "keywords": [
+        "LSL",
+        "linden-scripting-language",
+        "SL",
+        "second-life",
+        "language-lsl"
+    ]
+}
