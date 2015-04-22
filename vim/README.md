@@ -8,8 +8,8 @@
 
 Snippets are provided in the following formats:
 
-* [snipmate](https://github.com/garbas/vim-snipmate/)
-* [ultiSnips](https://github.com/SirVer/ultisnips/)
+* [Snipmate](https://github.com/garbas/vim-snipmate/)
+* [UltiSnips](https://github.com/SirVer/ultisnips/)
 
 ### Troubleshooting:
 
