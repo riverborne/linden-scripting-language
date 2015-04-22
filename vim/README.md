@@ -1,8 +1,8 @@
 ### Usage:
 
-* Copy the file to:
-    * `~/.vim/syntax/lsl.vim` on Unix-based systems
-    * `$HOME/vimfiles/syntax/lsl.vim` on Windows systems.
+* Copy the subfolders with files to:
+    * `~/.vim/` on Unix-based systems
+    * `$HOME/vimfiles/` on Windows systems.
 
 ### Snippets:
 
