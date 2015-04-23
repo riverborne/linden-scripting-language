@@ -1,15 +1,15 @@
-# [Linden Scripting Language (LSL)](https://wiki.secondlife.com/wiki/LSL_Portal) syntax grammar and syntax highlighting files
+# [Linden Scripting Language (LSL)](https://wiki.secondlife.com/wiki/LSL_Portal) syntax grammar, syntax highlighting and snippet files.
 
 ## Readme contents
 
-* [How to](#how-to)
+* [Usage](#usage)
   * [Quick start](#quick-start)
   * [Bugs, issues & feature requests](#bugs-issues--feature-requests)
 * [About](#about)
 
 ___
 
-## How to
+## Usage
 
 ### Quick start
 
