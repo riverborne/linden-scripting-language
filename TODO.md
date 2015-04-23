@@ -9,3 +9,7 @@
 ### ultraedit:
 
 * [ ] Make autocomplete work when replacing substrings within a template.
+
+### highlight-js:
+
+* [ ] add files.
