@@ -2,10 +2,14 @@
 
 ### Readme contents
 
-* [Quick start](#quick-start)
-* [Bugs, issues & feature requests](#bugs-issues--feature-requests)
+* [How to](#how-to)
+  * [Quick start](#quick-start)
+  * [Bugs, issues & feature requests](#bugs-issues--feature-requests)
+* [About](#about)
 
 ___
+
+## How to
 
 ### Quick start
 
@@ -20,4 +24,6 @@ ___
 
 ___
 
-In this repository you can find the syntax grammar, syntax highlighting and snippet files for the [Linden Scripting Language (LSL)](https://wiki.secondlife.com/wiki/LSL_Portal) of [Second Life](https://www.secondlife.com).
+## About
+
+In this repository you can find the syntax grammar, syntax highlighting and snippet files for the [Linden Scripting Language (LSL)](https://wiki.secondlife.com/wiki/LSL_Portal) of [Second Life](https://www.secondlife.com) for different kinds of software.
