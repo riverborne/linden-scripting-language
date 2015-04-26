@@ -1,0 +1,24 @@
+[
+    {
+        "id": "preferences",
+        "children":
+        [
+            {
+                "caption": "Package Settings",
+                "mnemonic": "P",
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "LSL",
+                        "children":
+                        [
+                            { "command": "change_editor_scheme", "caption": "Use Viewer Theme", "checkbox": false },
+                            { "command": "change_style", "caption": "K&R Style", "checkbox": false }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

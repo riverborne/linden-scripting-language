@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[http_request(key ${1:request_id}, string ${2:method}, string ${3:body})$LSL_SPACE_OR_NEWLINE{
+	$0
+}]]></content>
+	<tabTrigger>http_request</tabTrigger>
+	<scope>meta.state.body.lsl - meta.event.lsl</scope>
+	<description>event • http_request</description>
+</snippet>

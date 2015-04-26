@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[changed(integer ${1:change})$LSL_SPACE_OR_NEWLINE{
+	$0
+}]]></content>
+	<tabTrigger>changed</tabTrigger>
+	<scope>meta.state.body.lsl - meta.event.lsl</scope>
+	<description>event • changed</description>
+</snippet>
+

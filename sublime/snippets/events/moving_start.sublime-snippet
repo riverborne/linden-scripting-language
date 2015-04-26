@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[moving_start()$LSL_SPACE_OR_NEWLINE{
+	$0
+}]]></content>
+	<tabTrigger>moving_start</tabTrigger>
+	<scope>meta.state.body.lsl - meta.event.lsl</scope>
+	<description>event • moving_start</description>
+</snippet>

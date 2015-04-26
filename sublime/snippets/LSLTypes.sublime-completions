@@ -1,0 +1,14 @@
+{
+    "scope": "source.lsl - meta.state.body.lsl, meta.function.body.lsl, meta.event.body.lsl",
+    "completions":
+    [
+        { "trigger": "float\tstorage type", "contents": "float" },
+        { "trigger": "integer\tstorage type", "contents": "integer" },
+        { "trigger": "key\tstorage type", "contents": "key" },
+        { "trigger": "list\tstorage type", "contents": "list" },
+        { "trigger": "quaternion\tstorage type", "contents": "quaternion" },
+        { "trigger": "rotation\tstorage type", "contents": "rotation" },
+        { "trigger": "string\tstorage type", "contents": "string" },
+        { "trigger": "vector\tstorage type", "contents": "vector" }
+    ]
+}

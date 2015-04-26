@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[object_rez(key ${1:id})$LSL_SPACE_OR_NEWLINE{
+	$0
+}]]></content>
+	<tabTrigger>object_rez</tabTrigger>
+	<scope>meta.state.body.lsl - meta.event.lsl</scope>
+	<description>event • object_rez</description>
+</snippet>

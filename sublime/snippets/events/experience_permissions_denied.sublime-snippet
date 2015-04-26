@@ -1,0 +1,8 @@
+﻿<snippet>
+	<content><![CDATA[experience_permissions_denied(key ${1:agent_id}, integer ${2:reason})$LSL_SPACE_OR_NEWLINE{
+	$0
+}]]></content>
+	<tabTrigger>experience_permissions_denied</tabTrigger>
+	<scope>meta.state.body.lsl - meta.event.lsl</scope>
+	<description>event • experience_permissions_denied</description>
+</snippet>

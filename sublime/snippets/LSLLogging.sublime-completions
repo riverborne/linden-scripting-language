@@ -1,0 +1,14 @@
+{
+    "scope": "meta.function.body.lsl, meta.event.body.lsl",
+    "completions":
+    [
+        { "trigger": "print\t(float) logging", "contents": "print(${1:float val});" },
+        { "trigger": "print\t(integer) logging", "contents": "print(${1:integer val});" },
+        { "trigger": "print\t(key) logging", "contents": "print(${1:key val});" },
+        { "trigger": "print\t(list) logging", "contents": "print(${1:list val});" },
+        { "trigger": "print\t(quaternion) logging", "contents": "print(${1:quaternion val});" },
+        { "trigger": "print\t(rotation) logging", "contents": "print(${1:rotation val});" },
+        { "trigger": "print\t(string) logging", "contents": "print(${1:string val});" },
+        { "trigger": "print\t(vector) logging", "contents": "print(${1:vector val});" }
+    ]
+}
