@@ -780,6 +780,7 @@
                 <string>OBJECT_DESC</string>
                 <string>OBJECT_GROUP</string>
                 <string>OBJECT_HOVER_HEIGHT</string>
+                <string>OBJECT_LAST_OWNER_ID</string>
                 <string>OBJECT_NAME</string>
                 <string>OBJECT_OWNER</string>
                 <string>OBJECT_PATHFINDING_TYPE</string>
