@@ -252,6 +252,7 @@
             'OBJECT_DESC'
             'OBJECT_GROUP'
             'OBJECT_HOVER_HEIGHT'
+            'OBJECT_LAST_OWNER_ID'
             'OBJECT_NAME'
             'OBJECT_OWNER'
             'OBJECT_PATHFINDING_TYPE'
