@@ -249,6 +249,7 @@
         <KeyWord name="OBJECT_DESC" func="no" />
         <KeyWord name="OBJECT_GROUP" func="no" />
         <KeyWord name="OBJECT_HOVER_HEIGHT" func="no" />
+        <KeyWord name="OBJECT_LAST_OWNER_ID" func="no" />
         <KeyWord name="OBJECT_NAME" func="no" />
         <KeyWord name="OBJECT_OWNER" func="no" />
         <KeyWord name="OBJECT_PATHFINDING_TYPE" func="no" />
