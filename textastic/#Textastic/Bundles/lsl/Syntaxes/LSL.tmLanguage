@@ -124,12 +124,6 @@
                 </dict>
                 <dict>
                     <key>match</key>
-                    <string>\b(TRUE|FALSE)\b</string>
-                    <key>name</key>
-                    <string>constant.language.integer.boolean.lsl</string>
-                </dict>
-                <dict>
-                    <key>match</key>
                     <string>\b(NULL_KEY|EOF)\b</string>
                     <key>name</key>
                     <string>constant.language.string.lsl</string>
@@ -312,9 +306,9 @@
                 </dict>
                 <dict>
                     <key>match</key>
-                    <string>\b(?:FALSE|TRUE)\b</string>
+                    <string>\b(FALSE|TRUE)\b</string>
                     <key>name</key>
-                    <string>constant.language.ll.integer.boolean.lsl</string>
+                    <string>constant.language.integer.boolean.lsl</string>
                 </dict>
                 <dict>
                     <key>match</key>
