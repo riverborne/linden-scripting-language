@@ -46,8 +46,6 @@ contexts:
   constant:
     - match: \b(default|state)\b
       scope: constant.language.state.lsl
-    - match: \b(TRUE|FALSE)\b
-      scope: constant.language.integer.boolean.lsl
     - match: \b(NULL_KEY|EOF)\b
       scope: constant.language.string.lsl
   event:
